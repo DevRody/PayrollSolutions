@@ -1,0 +1,1 @@
+ALTER TABLE UserLogin RENAME TO User_Login;

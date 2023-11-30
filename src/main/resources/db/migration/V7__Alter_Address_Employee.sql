@@ -1,0 +1,3 @@
+ALTER TABLE Employee ADD COLUMN admission_date DATE;
+
+ALTER TABLE Address ADD COLUMN state VARCHAR(20);
